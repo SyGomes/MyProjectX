@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/ProjetoX/MyProjectX/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/ProjetoX/MyProjectX/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/ProjetoX/MyProjectX/Content/StarterContent/Textures/T_Ceramic_Tile_M_Mat.uasset",
+				"C:/ProjetoX/MyProjectX/Content/StarterContent/Maps/BP_projectile.uasset",
+				"E:/UE_5.3/Engine/Content/BasicShapes/Sphere_Blueprint.uasset"
+			]
+		}
+	]
+}
